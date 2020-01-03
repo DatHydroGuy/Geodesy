@@ -13,3 +13,7 @@ I do not own, nor claim to own, any of the algorithms or implementations.
 
 ## Requirements
 See requirements.txt
+
+
+## Testing
+Unit tests are performed using the Hypothesis library.
